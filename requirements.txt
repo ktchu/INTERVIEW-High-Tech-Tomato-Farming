@@ -5,6 +5,3 @@ pandas
 scikit-learn
 scipy
 seaborn
-
-# Interactive environments
-jupyterlab
